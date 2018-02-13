@@ -1,9 +1,9 @@
 <template>
-  <h1>I am seller</h1>
+  <h1>I am ratings</h1>
 </template>
 
 <script type="text/ecmascript-6">
-  export default{}
+	export default{}
 </script>
 
 <style>
